@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Ragini 👋
 
-<!--
-**Ragini-telange/Ragini-telange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student | 💻 Aspiring Full‑Stack Developer  
 
-Here are some ideas to get you started:
+## 🔹 About Me
+- 🌱 Currently exploring **AWS cloud, AIML**  
+- 💡 Interested in **Web Development, Node.js + MySQL backend, and AI-driven apps**  
+- 🛠️ Comfortable with **C++, Java (Spring Boot), SQL, HTML/CSS/JS, Node.js**  
+- 🚀 Passionate about building solutions that make an impact  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Tech Stack
+**Languages:** C++, Java, SQL, JavaScript  
+**Frontend:** HTML5, CSS3, JavaScript (ES6+)  
+**Backend:** Node.js, Express.js, MySQL, Spring Boot  
+**Tools:** Git, VS Code 
+
+## 🔹 Connect With Me
+[LinkedIn]([https://www.linkedin.com/in/raginitelange/]) • [GitHub](https://github.com/ragini) • [Email](mailto:your-email@gmail.com)
+
+---
+⭐ *“Code with clarity, build with purpose.”*
