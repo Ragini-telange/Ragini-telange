@@ -15,7 +15,7 @@
 **Tools:** Git, VS Code 
 
 ## 🔹 Connect With Me
-[LinkedIn]([https://www.linkedin.com/in/raginitelange/]) • [GitHub](https://github.com/ragini) • [Email](mailto:your-email@gmail.com)
+[LinkedIn]((https://www.linkedin.com/in/raginitelange/)) • [GitHub]((https://github.com/Ragini-telange)) • [Email](raginitelange052@gmail.com)
 
 ---
 ⭐ *“Code with clarity, build with purpose.”*
