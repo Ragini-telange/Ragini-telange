@@ -1,19 +1,23 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=00E08A&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=140&lines=%24+whoami;Ragini+Telange;%24+cat+role.txt;Full-Stack+%7C+DSA+%7C+Problem+Solver" alt="typing" />
+<img src="./terminal.svg" alt="terminal intro" width="700" />
+
+<br>
+
+[**about**](#-about) · [**now**](#-now) · [**stack**](#-stack) · [**stats**](#-stats) · [**contact**](#-ping-me)
 
 </div>
 
 ---
 
-## 💻 whoami
+## 💻 about
 
 ```bash
-~/YOUR_USERNAME $ neofetch
+~/Ragini-telange $ neofetch
 
   name       →  Ragini Dattatray Telange
   role       →  Computer Engineering Student
-  college    →  MIT Acadamy of Engineering ,Alandi Pune
+  college    →  MIT Academy of Engineering, Alandi, Pune
   year       →  Third Year
   languages  →  C++, Python, JavaScript
   building   →  Web apps, DSA solutions
@@ -73,10 +77,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut-vertical&theme=radical&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ragini-telange&show_icons=true&theme=radical&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ragini-telange&layout=donut-vertical&theme=radical&hide_border=true" height="165" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0d1117&color=00e08a&line=00e08a&point=ffffff" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ragini-telange&theme=react-dark&hide_border=true&bg_color=0d1117&color=00e08a&line=00e08a&point=ffffff" width="95%" />
 
 </div>
 
@@ -87,13 +91,13 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raginitelange/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](raginitelange052@gmail.com)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_URL)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raginitelange052@gmail.com)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ragini_2006/)
 
 <br>
 
 ```
-$ echo "Thanks for stopping by!" 
+$ echo "Thanks for stopping by!"
 > Thanks for stopping by!
 ```
 
