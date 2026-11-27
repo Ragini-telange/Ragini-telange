@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00E08A&center=true&vCenter=true&width=700&height=60&lines=%24+whoami;YOUR+NAME;%24+cat+role.txt;Full-Stack+%7C+DSA+%7C+Problem+Solver" alt="typing" />
-
-[ **about** ](#-whoami) · [ **stack** ](#-stack) · [ **stats** ](#-stats) · [ **contact** ](#-ping-me)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=00E08A&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=140&lines=%24+whoami;Ragini+Telange;%24+cat+role.txt;Full-Stack+%7C+DSA+%7C+Problem+Solver" alt="typing" />
 
 </div>
 
