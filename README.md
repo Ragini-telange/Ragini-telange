@@ -1,11 +1,8 @@
 <div align="center">
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00E08A&center=true&vCenter=true&width=700&height=60&lines=%24+whoami;YOUR+NAME;%24+cat+role.txt;Full-Stack+%7C+DSA+%7C+Problem+Solver" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00E08A&center=true&vCenter=true&width=700&height=60&lines=%24+whoami;Ragini Telange;%24+cat+role.txt;Full-Stack+%7C+DSA+%7C+Problem+Solver" alt="typing" />
 
 [ **about** ](#-whoami) · [ **stack** ](#-stack) · [ **stats** ](#-stats) · [ **contact** ](#-ping-me)
-
 
 </div>
 
@@ -16,7 +13,7 @@
 ```bash
 ~/YOUR_USERNAME $ neofetch
 
-  name       →  Ragini Telange
+  name       →  Ragini Dattatray Telange
   role       →  Computer Engineering Student
   college    →  MIT Acadamy of Engineering ,Alandi Pune
   year       →  Third Year
@@ -92,9 +89,8 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raginitelange/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](raginitelange052@gmil.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](raginitelange052@gmail.com)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_URL)
-
 
 <br>
 
