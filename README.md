@@ -75,15 +75,18 @@
 
 ## 📊 stats
 
+## 📊 stats
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ragini-telange&show_icons=true&theme=radical&hide_border=true" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ragini-telange&layout=donut-vertical&theme=radical&hide_border=true" height="165" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ragini-telange&theme=react-dark&hide_border=true&bg_color=0d1117&color=00e08a&line=00e08a&point=ffffff" width="95%" />
+<br>
+
+<img src="https://ghchart.rshah.org/00e08a/Ragini-telange" alt="Contribution chart" width="95%" />
 
 </div>
-
 ---
 
 ## 📡 ping me
